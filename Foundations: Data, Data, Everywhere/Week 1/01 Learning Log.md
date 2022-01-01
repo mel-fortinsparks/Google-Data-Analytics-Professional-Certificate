@@ -24,7 +24,7 @@ OR
 If you don’t have a Google account, you can download the template directly from the attachment below.
 <br>
 <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fd18ky98rnyall9.cloudfront.net%2FDNykxIj4TLicpMSI-Dy4Dg_678c43f1933349da98708aab5e6feb7f_Learning-Log-Template_-Think-about-data-in-daily-life.docx%3FExpires%3D1641168000%26Signature%3DZK4OAzatVoTj14ijQ2ddkx09ujWjPvu8HunoAn12I-EIgQl4sgrxwnhRkdWEbsozL96EzA9y-m4F2I-jQwX1cIpUASApJ70aBPVw1wcUwzPLuFd4i6tEGR1PfAUq6ykhxhQR41EYB4ckAd8TADTsdqZja9MDwMkTqMltNHVLntM_%26Key-Pair-Id%3DAPKAJLTNE6QMUY6HBC5A&wdOrigin=BROWSELINK">Learning Log Template</a>
-<
+
 ## Reflection
 After you consider how you use data analysis in your own life, take a moment to reflect on what you discovered. Reflections may include what you liked, what you would change, and questions that were raised. In your new learning log entry, you will write 2-3 sentences (40-60 words) in response to each question below:
 
